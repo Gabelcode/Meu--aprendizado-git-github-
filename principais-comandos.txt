@@ -1,0 +1,7 @@
+Vimos os principais comando utilizados no versionamento como:
+- git add
+- git status
+- git commit
+- git init 
+
+Vários comandos foram vistos e não citados acima.
