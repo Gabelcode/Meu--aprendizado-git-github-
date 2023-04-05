@@ -1,0 +1,1 @@
+Vimos como utilizar várias branchs nos projetos assim como fazer merge, editar comando e até mesmo desfazer comandos.
