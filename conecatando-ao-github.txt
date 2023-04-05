@@ -1,0 +1,2 @@
+Através do git clone, fizemos a interação direta com o github pela linha de código, logo após demos o push para retornar todo
+o arquivo com as devidas atualizações
